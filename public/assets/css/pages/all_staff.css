@@ -1,0 +1,14 @@
+.sort-icon{
+    display:none !important;
+}
+.sort-icon.active{
+    display: inline-block !important;
+}
+
+.sort-icon-join {
+    display:none !important;
+}
+.sort-icon-join.active {
+    display: inline-block !important;
+
+}

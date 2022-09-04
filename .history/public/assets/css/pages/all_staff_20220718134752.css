@@ -1,0 +1,6 @@
+.sort-icon-join, .sort-icon{
+    display:none !important;
+}
+.sort-icon-join.active .sort-icon.active{
+    display: inline-block !important;
+}

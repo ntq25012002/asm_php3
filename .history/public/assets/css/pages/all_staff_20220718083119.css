@@ -1,0 +1,6 @@
+.sort-icon{
+    display:none
+}
+.sort-icon.active{
+    display: block;
+}
